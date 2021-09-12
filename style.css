@@ -1,0 +1,26 @@
+.text-center{
+    text-align: center;
+}
+.mt-2{
+    margin-top: 2rem;
+}
+.mr-2{
+    margin-right: 2rem;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    border: 1px solid lightgray;
+    padding: 2rem;
+    border-radius: 4px;
+    width: 400px;
+    margin-bottom: 2rem;
+}
